@@ -188,9 +188,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 159 606 456 0 0 1440 900 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>3023 528 796 473 2560 0 2560 1417 </string>
+	<string>560 527 918 498 0 0 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1124 331 1273 692 0 0 2560 1417 </string>
+	<string>0 371 650 502 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>0 106 1405 771 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
@@ -817,7 +817,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.18152274408284025</real>
+			<real>0.11530833949704142</real>
 			<key>Unlimited Scrollback</key>
 			<false/>
 			<key>Use Bold Font</key>
@@ -974,7 +974,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-01-25T21:43:49Z</date>
+	<date>2017-02-09T21:47:27Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
