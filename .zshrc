@@ -84,3 +84,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias testinternet='ping www.google.com'
+
+
+# add nvm to zsh
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
